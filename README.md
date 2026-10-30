@@ -1,4 +1,4 @@
-# Week 4 – LLM Fundamentals Assessment
+LLM Fundamentals
 
 A runnable, individual assessment project split into four tasks. The project uses **Ollama locally by default** for LLM experiments, so no paid API key is required. Task 1 uses `tiktoken` for token counting. Task 3 uses NumPy, Matplotlib and Hugging Face models.
 
