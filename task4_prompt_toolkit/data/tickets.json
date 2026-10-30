@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "text": "I was charged twice for my monthly plan.",
+    "category": "Billing",
+    "priority": "High"
+  },
+  {
+    "id": 2,
+    "text": "Please send me the invoice for last month's payment.",
+    "category": "Billing",
+    "priority": "Low"
+  },
+  {
+    "id": 3,
+    "text": "My refund has not arrived after 10 business days.",
+    "category": "Billing",
+    "priority": "High"
+  },
+  {
+    "id": 4,
+    "text": "How can I update the card used for renewal?",
+    "category": "Billing",
+    "priority": "Low"
+  },
+  {
+    "id": 5,
+    "text": "The checkout page charged me but showed payment failed.",
+    "category": "Billing",
+    "priority": "High"
+  },
+  {
+    "id": 6,
+    "text": "The app crashes every time I open the reports page.",
+    "category": "Technical",
+    "priority": "High"
+  },
+  {
+    "id": 7,
+    "text": "The export button does nothing when clicked.",
+    "category": "Technical",
+    "priority": "Medium"
+  },
+  {
+    "id": 8,
+    "text": "Pages are loading very slowly this morning.",
+    "category": "Technical",
+    "priority": "Medium"
+  },
+  {
+    "id": 9,
+    "text": "I receive an error 500 when saving my profile settings.",
+    "category": "Technical",
+    "priority": "High"
+  },
+  {
+    "id": 10,
+    "text": "Can you add dark mode to the dashboard?",
+    "category": "Technical",
+    "priority": "Low"
+  },
+  {
+    "id": 11,
+    "text": "I forgot my password and the reset email never arrives.",
+    "category": "Account",
+    "priority": "High"
+  },
+  {
+    "id": 12,
+    "text": "Please change the email address on my account.",
+    "category": "Account",
+    "priority": "Medium"
+  },
+  {
+    "id": 13,
+    "text": "My account is locked after too many login attempts.",
+    "category": "Account",
+    "priority": "High"
+  },
+  {
+    "id": 14,
+    "text": "How do I delete my profile?",
+    "category": "Account",
+    "priority": "Low"
+  },
+  {
+    "id": 15,
+    "text": "I cannot sign in because my verification code is expired.",
+    "category": "Account",
+    "priority": "High"
+  }
+]

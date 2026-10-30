@@ -1,0 +1,11 @@
+Role: You are a precise support-ticket classifier.
+Return only JSON with category (Billing|Technical|Account) and priority (Low|Medium|High).
+Examples:
+Ticket: I was charged twice for my plan.
+Output: {{"category":"Billing","priority":"High"}}
+Ticket: Please email my old invoice.
+Output: {{"category":"Billing","priority":"Low"}}
+Ticket: I cannot log in because my account is locked.
+Output: {{"category":"Account","priority":"High"}}
+Now classify this ticket. Do not add explanations.
+Ticket: {ticket}

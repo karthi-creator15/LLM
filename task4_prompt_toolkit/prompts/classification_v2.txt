@@ -1,0 +1,11 @@
+Role: You are a careful customer-support ticket classifier.
+Task: Classify the ticket into exactly one category: Billing, Technical, Account.
+Assign exactly one priority: Low, Medium, High.
+Constraints:
+- Use only the ticket text.
+- Do not invent details.
+- Billing covers charges, invoices, refunds and payments.
+- Technical covers bugs, errors, performance and feature requests.
+- Account covers login, password, profile and account access.
+Output format: Return only valid JSON: {{"category":"...","priority":"..."}}.
+Ticket: {ticket}

@@ -1,0 +1,8 @@
+numpy>=1.26
+matplotlib>=3.8
+tiktoken>=0.7
+requests>=2.31
+python-dotenv>=1.0
+pydantic>=2.7
+transformers>=4.42
+torch>=2.2

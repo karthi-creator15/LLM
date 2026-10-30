@@ -1,0 +1,65 @@
+[
+  {
+    "text": "Meera is a Python developer with 3 years of experience. She has skills in Python, Django and PostgreSQL.",
+    "expected": {
+      "name": "Meera",
+      "skills": [
+        "Python",
+        "Django",
+        "PostgreSQL"
+      ],
+      "years_experience": 3
+    }
+  },
+  {
+    "text": "Arun has worked for 5 years as a Java engineer. His skills include Java, Spring Boot, MySQL and Docker.",
+    "expected": {
+      "name": "Arun",
+      "skills": [
+        "Java",
+        "Spring Boot",
+        "MySQL",
+        "Docker"
+      ],
+      "years_experience": 5
+    }
+  },
+  {
+    "text": "Sara is a recent graduate skilled in React, JavaScript and HTML. She has no professional experience.",
+    "expected": {
+      "name": "Sara",
+      "skills": [
+        "React",
+        "JavaScript",
+        "HTML"
+      ],
+      "years_experience": 0
+    }
+  },
+  {
+    "text": "Kavin has 2 years of experience in data analytics using SQL, Python, Excel and Power BI.",
+    "expected": {
+      "name": "Kavin",
+      "skills": [
+        "SQL",
+        "Python",
+        "Excel",
+        "Power BI"
+      ],
+      "years_experience": 2
+    }
+  },
+  {
+    "text": "Nila is a software tester with 4 years of experience. She uses Selenium, Java, API testing and Git.",
+    "expected": {
+      "name": "Nila",
+      "skills": [
+        "Selenium",
+        "Java",
+        "API testing",
+        "Git"
+      ],
+      "years_experience": 4
+    }
+  }
+]

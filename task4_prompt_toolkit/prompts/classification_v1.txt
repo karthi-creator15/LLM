@@ -1,0 +1,2 @@
+Classify this support ticket. Return category and priority.
+Ticket: {ticket}
